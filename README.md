@@ -21,7 +21,9 @@ Rett Syndrome (RTT) is a rare neurodevelopmental disorder that is caused by a si
 
 <h3>RESULTS</h3>
 According to the calculated F1 score, the network performs quite well in classifying RTT vs WT as well as developmental stage (Table 1). I opted to use the F1 error metric because it considers the precision and recall for each class. Based on the confusion matrix, for both WT and RTT, the model sometimes confused the middle and late stages with each other, however had good performance distinguishing between WT and RTT as well as the early stages of development (Figure 2).
+
 ![image](https://user-images.githubusercontent.com/2040394/192342216-7216e36b-58b8-4965-932b-e49101ac19e6.png)
+
 ![image](https://user-images.githubusercontent.com/2040394/192342266-a53b418b-bc03-4cf0-9a25-490cff83b5b1.png)
 
 
