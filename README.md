@@ -1,5 +1,5 @@
 # BIOPHYS9709B-FCNN
-Final Project for Biomedical Applications of Neural Networks
+Deep Neural Network for the Diagnosis and Classification of Rett Syndrome - Final Project for Biomedical Applications of Neural Networks
 
 <h3>INTRODUCTION</h3>
 Rett Syndrome (RTT) is a rare neurodevelopmental disorder that is caused by a single heterozygous loss-of-function mutation in the gene methyl-CpG-binding protein 2 (MECP2). Recent human cell work has shown that iPSC-derived cortical neurons harboring the MECP2 mutation had smaller cell bodies, shorter dendrites with less branching, as well as a decrease in frequency of spontaneous excitatory post-synaptic currents, suggesting these neurons are not receiving as many inputs. Taken together, neurons that had the MECP2 mutations had morphological and functional hypoconnectivity at a single neuron level. Based on this, I hypothesized that this apparent hypoconnectivity between MECP2-mutant neurons will result in altered network development and function, and these changes will be detectable at early stages of network development. Additionally, based on these functional network-level electrophysiological properties, I am interested in whether these excitatory neuronal cultures can be classified as either wildtype (WT) or Rett syndrome (RTT), and if it is possible identify the developmental stage.
